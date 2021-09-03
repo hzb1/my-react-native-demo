@@ -1,0 +1,9 @@
+com/myreactnativedemo/BuildConfig.java
+ com.myreactnativedemo.BuildConfig
+com/myreactnativedemo/MainApplication.java
+ com.myreactnativedemo.MainApplication
+ com.myreactnativedemo.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/myreactnativedemo/MainActivity.java
+ com.myreactnativedemo.MainActivity
